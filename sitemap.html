@@ -1,0 +1,30 @@
+---
+layout: default
+title: All posts and pages
+comments: false
+---
+
+<h3>All Posts</h3>
+<table>
+    {% for post in site.posts %}
+    <tr>
+        <td> {{ post.date | date: "%m/%d/%Y" }} </td>
+        <td><a href="{{site.url}}{{ post.url | remove: 'index.html' }}">{{ post.title }}</td>
+        <td>{% for tag in post.tags %} {{ tag }} {% endfor %}</td>
+    </tr>
+    {% endfor %}
+</table>
+<h3>All Pages</h3>
+{% for page in site.pages %}
+{% if page.layout != 'null' %}
+{% if page.layout != 'feed' %}
+{% if page.name != '404.html' %}
+{% if page.name != 'feed.xml' %}
+{% if page.name != 'style.css' %}
+{% if page.name != 'main.css' %}
+{% if page.name != 'sitemap.xml' %}
+{% if page.name != 'staticman.js' %}
+{% if page.name != 'robots.txt' %}
+<li><a href="{{site.url}}{{ page.url | remove: 'index.html' }}">{{ page.title }}</a></li>
+{% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %}
+{% endfor %}

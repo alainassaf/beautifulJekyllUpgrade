@@ -35,13 +35,13 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 # Beautiful Jekyll Dependencies
 gem "jekyll-paginate", "~> 1.1"
-gem "kramdown", "~>2.3.0"
-gem "kramdown-parser-gfm", "~> 1.1"
 gem "jekyll-sitemap", "~> 1.4"
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "kramdown", "~>2.3.0"
 gem "webrick", "~> 1.7"
 gem "jekyll-gist"
-gem "bundler", "~>1.16"
-gem "rake", "~>12.0"
 
 # Install Beautiful Jekyll gem
 gem "beautiful-jekyll-theme", "~> 5.0"
+
+gem 'faraday-retry'

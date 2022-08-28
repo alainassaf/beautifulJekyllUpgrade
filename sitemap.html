@@ -18,13 +18,15 @@ comments: false
 {% for page in site.pages %}
 {% if page.layout != 'null' %}
 {% if page.layout != 'feed' %}
+{% if page.layout != 'home' %}
 {% if page.name != '404.html' %}
 {% if page.name != 'feed.xml' %}
-{% if page.name != 'style.css' %}
-{% if page.name != 'main.css' %}
+{% if page.name != 'beautifuljekyll.css' %}
+{% if page.name != 'beautifuljekyll-minimal.css' %}
+{% if page.name != 'css' %}
 {% if page.name != 'sitemap.xml' %}
 {% if page.name != 'staticman.js' %}
 {% if page.name != 'robots.txt' %}
 <li><a href="{{site.url}}{{ page.url | remove: 'index.html' }}">{{ page.title }}</a></li>
-{% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %}
+{% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %} {% endif %}
 {% endfor %}

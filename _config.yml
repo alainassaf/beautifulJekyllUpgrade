@@ -15,9 +15,6 @@ title: Alain Assaf
 # Your name to show in the footer
 author: Alain Assaf
 
-baseurl: "/beautifulJekyllUpgrade"
-url: "https://alainassaf.github.io"
-
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -261,7 +258,8 @@ timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 8
+paginate_path: /blog/page:num/
 
 kramdown:
   input: GFM

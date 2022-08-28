@@ -15,6 +15,9 @@ title: Alain Assaf
 # Your name to show in the footer
 author: Alain Assaf
 
+baseurl: "/beautifulJekyllUpgrade"
+url: "https://alainassaf.github.io"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################

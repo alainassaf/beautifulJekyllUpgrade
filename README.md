@@ -25,7 +25,7 @@ Once the framework was in place, I downloaded the latest release of Beautiful Je
 
 # Copyright Notice
 
-*Copyright ©2020-2022 [Alain Assaf](https://alainassaf.com)
+Copyright ©2020-2022 [Alain Assaf](https://alainassaf.com)
 
 The entire alainassaf.com Web site is Copyright ©2020-2022 by Alain Assaf. All Rights Reserved. The alainassaf.com site may not be copied or duplicated in whole or part by any means without express prior agreement in writing or unless specifically noted on the site.
 
@@ -33,5 +33,5 @@ Some photographs or documents contained on the site may be the copyrighted prope
 
 # Privacy Notice
 
-The privacy notice is [here](https://alainassaf.com/privacy).
+The privacy notice is [here](https://alainassaf.github.io.com/privacy).
 This privacy notice was sourced from [erresen.github.io](https://erresen.github.io/privacy/).

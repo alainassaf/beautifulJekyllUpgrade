@@ -8,6 +8,7 @@ Managing EUC technologies and platforms with PowerShell covers a lot of topics. 
 ## Blogs
 
 * [**Planet PowerShell**](https://www.planetpowershell.com/){:target="_blank"} - PowerShell Blog aggregator
+* [**ATALearning**](https://adamtheautomator.com/){:target="_blank"} - In-depth technical tutorials that teach you all the in and outs of the latest technology.
 * [**RTP - PUG**](https://rtpsug.com/){:target="_blank"} - Reseach Triangle PowerShell User Group Website
 * [**Carl Webster's Exetensive Scripts and Utilities**](https://carlwebster.com/downloads/){:target="_blank"}
 
@@ -18,7 +19,7 @@ Managing EUC technologies and platforms with PowerShell covers a lot of topics. 
 
 ## Slack Channels
 
-* [**PowerShell Slack**](http://slack.poshcode.org){:target="_blank"} A very active Slack for all things PowerShell.
+* [**PowerShell Slack**](http://powershell.slack.com){:target="_blank"} A very active Slack for all things PowerShell.
 
 ## Modules
 

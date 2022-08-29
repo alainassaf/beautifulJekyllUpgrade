@@ -3,6 +3,7 @@ layout: page
 title: Privacy Policy
 permalink: /privacy/
 last-updated: 2022-08-29
+comments: false
 ---
 
 ## TLDR

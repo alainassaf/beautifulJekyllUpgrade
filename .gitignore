@@ -11,3 +11,4 @@ ehthumbs.db
 # Jekyll
 .jekyll-metadata
 Gemfile.lock
+.jekyll-metadata

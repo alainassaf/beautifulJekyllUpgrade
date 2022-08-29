@@ -24,6 +24,7 @@ navbar-links:
   Blog:
     - Posts: "blog"
     - Tags: "tags"
+    - Privacy: "privacy"
   Resources:
     - Sitemap: "sitemap"
     - PowerShell: "powershellres"
@@ -56,6 +57,7 @@ social-network-links:
   linkedin: alainassaf
   github: alainassaf
   twitter: alainassaf
+  rss: true
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"

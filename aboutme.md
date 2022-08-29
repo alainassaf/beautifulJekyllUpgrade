@@ -26,6 +26,12 @@ I can be reached directly at: <alainassaf@outlook.com>
 # Value for value
 If you feel you are getting value from this blog, please help by becoming a [**supporter**](https://www.paypal.com/donate?hosted_button_id=73HNLGA2SGLLU){:target="_blank"}.
 
-Thanks for reading,
-
+Thanks for reading,  
 Alain Assaf
+  
+    
+***
+## Copyright Notice
+The entire alainassaf.com web site is Copyright ©2020-2022 by Alain Assaf. All Rights Reserved. The alainassaf.com site may not be copied or duplicated in whole or part by any means without express prior agreement in writing or unless specifically noted on the site.
+
+Some photographs or documents contained on the site may be the copyrighted property of others; acknowledgement of those copyrights is hereby given. All such material is used with the permission of the owner.
